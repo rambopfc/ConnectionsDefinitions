@@ -8,6 +8,8 @@
 // @connect      api.dictionaryapi.dev
 // @require      https://code.jquery.com/jquery-3.7.1.min.js
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=dictionaryapi.dev
+// @downloadURL  https://github.com/rambopfc/ConnectionsDefinitions/raw/main/ConnectionScript.user.js
+// @updateURL    https://github.com/rambopfc/ConnectionsDefinitions/raw/main/ConnectionScript.user.js
 // @run-at document-idle
 // @grant        none
 // ==/UserScript==
